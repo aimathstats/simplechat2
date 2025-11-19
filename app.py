@@ -2,7 +2,6 @@ import streamlit as st
 import random
 import time
 
-
 # Streamed response emulator
 def response_generator():
     response = random.choice(
